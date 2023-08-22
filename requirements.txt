@@ -1,0 +1,4 @@
+pyqt5~=5.15.9
+opencv-python~=4.8.0.76
+numpy~=1.21.6
+pyserial~=3.5
