@@ -4,5 +4,5 @@ Sample project used to learn PyQt5 GUI development. Performs basic image process
 
 In the interest of readability and modularity, each panel on the main user interface is located as a class in its own module.
 
-<img height="240" src=".\assets\sample.png" width="320"/>
+<img height="480" src=".\assets\sample.png" width="640"/>
 
